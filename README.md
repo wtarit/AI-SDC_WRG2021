@@ -1,8 +1,8 @@
 # AI-SDC_WRG2021
 This repo contain a code for my robot used to compete in WRG2021 online edition in AI self driving car category
 
-This Video show how the robot run in the audition round.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pF2o6g37ECA?start=44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This Youtube video show how the robot run in the audition round.
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/pF2o6g37ECA/0.jpg)](https://youtu.be/pF2o6g37ECA?t=44 "WRG2021 AI-SDC TH0092 Tarit Witworrasakul")
 
 Components:
 - Nvidia Jetson Nano
