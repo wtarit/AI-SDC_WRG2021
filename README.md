@@ -12,3 +12,7 @@ Components:
 - 3 cells 18650 battery
 
 The robot have Jetson nano as a main computer which is used to detect lane lines and reading april tags. The low level control task is handled by ESP32 which communicate with Jetson nano via USB serial connection.
+
+- esp32 folder contain a platformio project for esp32.
+- pc folder contain code used on pc for configuring the robot using zmq messaging for data transfer.
+- jetson folder contain code used for configuring the robot and running the robot.
