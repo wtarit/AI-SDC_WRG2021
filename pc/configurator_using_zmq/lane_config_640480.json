@@ -1,0 +1,22 @@
+{
+    "W_hue_min": 10,
+    "W_sat_min": 64,
+    "W_val_min": 67,
+    "W_hue_max": 33,
+    "W_sat_max": 218,
+    "W_val_max": 255,
+    "X1_lane": 49,
+    "Y1_lane": 273,
+    "X2_lane": 597,
+    "Y2_lane": 273,
+    "X3_lane": 640,
+    "Y3_lane": 480,
+    "X4_lane": 0,
+    "Y4_lane": 480,
+    "R_hue_min": 0,
+    "R_sat_min": 0,
+    "R_val_min": 0,
+    "R_hue_max": 0,
+    "R_sat_max": 0,
+    "R_val_max": 0
+}
